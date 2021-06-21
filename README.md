@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bikram
 - 👀 I’m interested in CRM
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking for a softwere or we appication wchich can help me keep financial data as well as works as CRM.
+- 💞️ I’m looking for a softwere or a web appication which can help me to keep financial data as well as works as CRM.
 - 📫 Contact me on Whatsapp - 7001832976
 
 <!---
