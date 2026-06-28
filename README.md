@@ -1,10 +1,86 @@
-- 👋 Hi, I’m Bikram
-- 👀 I’m interested in CRM
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking for a softwere or a web appication which can help me to keep financial data as well as works as CRM.
-- 📫 Contact me on Whatsapp - 7001832976
+# 👋 Hi, I'm Bikram Santra
 
-<!---
-Bikirokz/Bikirokz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+I'm an Operations Professional turned Tech Entrepreneur, currently building products in AI and Mobile Development.
+
+- 📱 Founder & Developer of **SocialWave**
+- 🤖 Exploring AI Agents & Automation
+- 💙 Flutter Developer
+- 🔥 Learning Backend Development with Supabase
+- 🌍 Passionate about building products that solve real-world problems
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
+- Flutter
+- Dart
+
+### Backend
+- Supabase
+- PostgreSQL
+
+### AI
+- Gemini AI
+- OpenAI AI
+- Claude AI
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Figma
+
+---
+
+## 🚧 Current Project
+
+### 📱 SocialWave
+
+An all-in-one social platform featuring:
+
+- 💬 Real-time Chat
+- 🎙 Voice Messaging
+- ❤️ Dating
+- 🎮 Party Games
+- 🎵 Music Lounges
+- 🤖 AI Features
+- 🌍 Communities
+- 📹 Social Feed
+
+---
+
+## 🌱 Currently Learning
+
+- Clean Architecture
+- State Management
+- Backend Engineering
+- AI Agents
+- System Design
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Launch SocialWave
+- 📱 Publish on Play Store
+- 🌍 Build products used by millions
+- 🤝 Contribute to Open Source
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+bikrams400@email.com
+
+💼 LinkedIn:
+https://linkedin.com/in/bikrams400
+
+🌐 Portfolio:
+Coming Soon
+
+⭐ Thanks for visiting my profile!
